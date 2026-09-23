@@ -106,3 +106,6 @@
 {"n":106,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot east escape. Matt keeps the rope for the push. 6 steps, arc on the left lane, open."}
 {"n":107,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east escape. arc left open. 7 steps. The rope stays for the push."}
 {"n":108,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rope at the Lot. Nobody past the east escape. We push in 8 steps. Arc on the left lane, open."}
+{"n":109,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot east escape. Nia keeps the rope for the push. 2 steps, arc on the left lane, open."}
+{"n":110,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east escape. arc left open. 3 steps. The rope stays for the push."}
+{"n":111,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rope at the Lot. Nobody past the east escape. We push in 4 steps. Arc on the left lane, open."}
