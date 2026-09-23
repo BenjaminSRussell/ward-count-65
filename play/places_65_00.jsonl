@@ -842,3 +842,6 @@
 {"n":842,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east escape. arc left open. 7 steps. The badge door stays for the push."}
 {"n":843,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at Last Light. Nobody past the east escape. We push in 8 steps. Arc on the left lane, open."}
 {"n":844,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Last Light east escape. Ivo keeps the badge door for the push. 2 steps, arc on the left lane, open."}
+{"n":845,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east escape. arc left open. 3 steps. The badge door stays for the push."}
+{"n":846,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at Last Light. Nobody past the east escape. We push in 4 steps. Arc on the left lane, open."}
+{"n":847,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light east escape. Bess keeps the badge door for the push. 5 steps, arc on the left lane, open."}
