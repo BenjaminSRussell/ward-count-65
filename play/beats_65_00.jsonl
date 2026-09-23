@@ -654,3 +654,6 @@
 {"n":654,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at the Underpass. Nobody past the east escape. We push in 8 steps. Arc on the left lane, open."}
 {"n":655,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass east escape. Bess keeps the drum for the push. 2 steps, arc on the left lane, open."}
 {"n":656,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east escape. arc left open. 3 steps. The drum stays for the push."}
+{"n":657,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at Mast yard. Nobody past the east escape. We push in 4 steps. Arc on the left lane, open."}
+{"n":658,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mast yard east escape. Matt keeps the drum for the push. 5 steps, arc on the left lane, open."}
+{"n":659,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east escape. arc left open. 6 steps. The drum stays for the push."}
