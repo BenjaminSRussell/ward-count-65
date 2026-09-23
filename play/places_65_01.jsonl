@@ -235,3 +235,6 @@
 {"n":235,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north escape. arc left open. 8 steps. The plywood stays for the push."}
 {"n":236,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the plywood at Drydock. Nobody past the north escape. We push in 2 steps. Arc on the left lane, open."}
 {"n":237,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock north escape. Nia keeps the plywood for the push. 3 steps, arc on the left lane, open."}
+{"n":238,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north escape. arc left open. 4 steps. The plywood stays for the push."}
+{"n":239,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the plywood at Drydock. Nobody past the north escape. We push in 5 steps. Arc on the left lane, open."}
+{"n":240,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock north escape. Ivo keeps the plywood for the push. 6 steps, arc on the left lane, open."}
