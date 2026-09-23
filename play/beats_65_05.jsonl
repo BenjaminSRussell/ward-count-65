@@ -91,3 +91,6 @@
 {"n":91,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Switchyard. Nobody past the south escape. We push in 7 steps. Arc on the left lane, open."}
 {"n":92,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard south escape. Ivo keeps the radio coil for the push. 8 steps, arc on the left lane, open."}
 {"n":93,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south escape. arc left open. 2 steps. The radio coil stays for the push."}
+{"n":94,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at Switchyard. Nobody past the south escape. We push in 3 steps. Arc on the left lane, open."}
+{"n":95,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard south escape. Bess keeps the radio coil for the push. 4 steps, arc on the left lane, open."}
+{"n":96,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south escape. arc left open. 5 steps. The radio coil stays for the push."}
