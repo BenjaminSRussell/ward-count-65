@@ -778,3 +778,6 @@
 {"n":778,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south escape. arc left open. 2 steps. The drum stays for the push."}
 {"n":779,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at High line. Nobody past the south escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":780,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line south escape. Ivo keeps the drum for the push. 4 steps, arc on the left lane, open."}
+{"n":781,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south escape. arc left open. 5 steps. The drum stays for the push."}
+{"n":782,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at High line. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":783,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line south escape. Bess keeps the drum for the push. 7 steps, arc on the left lane, open."}
