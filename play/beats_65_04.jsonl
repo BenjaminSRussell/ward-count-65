@@ -92,3 +92,6 @@
 {"n":92,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rebar at Drydock. Nobody past the south escape. We push in 2 steps. Arc on the left lane, open."}
 {"n":93,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock south escape. Nia keeps the rebar for the push. 3 steps, arc on the left lane, open."}
 {"n":94,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south escape. arc left open. 4 steps. The rebar stays for the push."}
+{"n":95,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rebar at Drydock. Nobody past the south escape. We push in 5 steps. Arc on the left lane, open."}
+{"n":96,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock south escape. Ivo keeps the rebar for the push. 6 steps, arc on the left lane, open."}
+{"n":97,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south escape. arc left open. 7 steps. The rebar stays for the push."}
