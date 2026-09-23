@@ -624,3 +624,6 @@
 {"n":624,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at Stockyard fence. Nobody past the east escape. We push in 6 steps. Arc on the left lane, open."}
 {"n":625,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence east escape. Nia keeps the drum for the push. 7 steps, arc on the left lane, open."}
 {"n":626,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east escape. arc left open. 8 steps. The drum stays for the push."}
+{"n":627,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at Stockyard fence. Nobody past the east escape. We push in 2 steps. Arc on the left lane, open."}
+{"n":628,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence east escape. Ivo keeps the drum for the push. 3 steps, arc on the left lane, open."}
+{"n":629,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east escape. arc left open. 4 steps. The drum stays for the push."}
