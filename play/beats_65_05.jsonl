@@ -307,3 +307,6 @@
 {"n":307,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Kessler alley. Nobody past the west curb. We hold in 6 steps. Arc on the left lane, open."}
 {"n":308,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley west curb. Ivo keeps the hydrant for the hold. 7 steps, arc on the left lane, open."}
 {"n":309,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west curb. arc left open. 8 steps. The hydrant stays for the hold."}
+{"n":310,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the west curb. We hold in 2 steps. Arc on the left lane, open."}
+{"n":311,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley west curb. Bess keeps the hydrant for the hold. 3 steps, arc on the left lane, open."}
+{"n":312,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west curb. arc left open. 4 steps. The hydrant stays for the hold."}
