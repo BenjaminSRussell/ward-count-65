@@ -229,3 +229,6 @@
 {"n":229,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north escape. arc left open. 2 steps. The plywood stays for the push."}
 {"n":230,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at Switchyard. Nobody past the north escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":231,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard north escape. Bess keeps the plywood for the push. 4 steps, arc on the left lane, open."}
+{"n":232,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north escape. arc left open. 5 steps. The plywood stays for the push."}
+{"n":233,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at Drydock. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":234,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock north escape. Matt keeps the plywood for the push. 7 steps, arc on the left lane, open."}
