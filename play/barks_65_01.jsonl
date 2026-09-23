@@ -903,3 +903,6 @@
 {"n":903,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard north escape. Bess keeps the lamp for the push. 4 steps, arc on the left lane, open."}
 {"n":904,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north escape. arc left open. 5 steps. The lamp stays for the push."}
 {"n":905,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at Drydock. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":906,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock north escape. Matt keeps the lamp for the push. 7 steps, arc on the left lane, open."}
+{"n":907,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north escape. arc left open. 8 steps. The lamp stays for the push."}
+{"n":908,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Drydock. Nobody past the north escape. We push in 2 steps. Arc on the left lane, open."}
