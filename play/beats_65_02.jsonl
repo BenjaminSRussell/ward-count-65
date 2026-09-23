@@ -28,3 +28,6 @@
 {"n":28,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rebar at South stair. Nobody past the north escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":29,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair north escape. Nia keeps the rebar for the push. 4 steps, arc on the left lane, open."}
 {"n":30,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north escape. arc left open. 5 steps. The rebar stays for the push."}
+{"n":31,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rebar at South stair. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":32,"kind":"place","name":"South stair north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair north escape. Ivo keeps the rebar for the push. 7 steps, arc on the left lane, open."}
+{"n":33,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north escape. arc left open. 8 steps. The rebar stays for the push."}
