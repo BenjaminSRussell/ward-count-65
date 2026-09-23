@@ -567,3 +567,6 @@
 {"n":567,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Clinic roof. Nobody past the south escape. We push in 2 steps. Arc on the left lane, open."}
 {"n":568,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof south escape. Ivo keeps the barrel for the push. 3 steps, arc on the left lane, open."}
 {"n":569,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south escape. arc left open. 4 steps. The barrel stays for the push."}
+{"n":570,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at Clinic roof. Nobody past the south escape. We push in 5 steps. Arc on the left lane, open."}
+{"n":571,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof south escape. Bess keeps the barrel for the push. 6 steps, arc on the left lane, open."}
+{"n":572,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south escape. arc left open. 7 steps. The barrel stays for the push."}
