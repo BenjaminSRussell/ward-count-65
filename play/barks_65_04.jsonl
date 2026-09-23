@@ -693,3 +693,6 @@
 {"n":693,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard south escape. Nia keeps the drum for the push. 8 steps, arc on the left lane, open."}
 {"n":694,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south escape. arc left open. 2 steps. The drum stays for the push."}
 {"n":695,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at Mast yard. Nobody past the south escape. We push in 3 steps. Arc on the left lane, open."}
+{"n":696,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard south escape. Ivo keeps the drum for the push. 4 steps, arc on the left lane, open."}
+{"n":697,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south escape. arc left open. 5 steps. The drum stays for the push."}
+{"n":698,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at Mast yard. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
