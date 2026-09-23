@@ -835,3 +835,6 @@
 {"n":835,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard east escape. Bess keeps the badge door for the push. 7 steps, arc on the left lane, open."}
 {"n":836,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east escape. arc left open. 8 steps. The badge door stays for the push."}
 {"n":837,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at Last Light. Nobody past the east escape. We push in 2 steps. Arc on the left lane, open."}
+{"n":838,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light east escape. Matt keeps the badge door for the push. 3 steps, arc on the left lane, open."}
+{"n":839,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east escape. arc left open. 4 steps. The badge door stays for the push."}
+{"n":840,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the badge door at Last Light. Nobody past the east escape. We push in 5 steps. Arc on the left lane, open."}
