@@ -211,3 +211,6 @@
 {"n":211,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair south escape. Bess keeps the plywood for the push. 3 steps, arc on the left lane, open."}
 {"n":212,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south escape. arc left open. 4 steps. The plywood stays for the push."}
 {"n":213,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at the pier. Nobody past the south escape. We push in 5 steps. Arc on the left lane, open."}
+{"n":214,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier south escape. Matt keeps the plywood for the push. 6 steps, arc on the left lane, open."}
+{"n":215,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south escape. arc left open. 7 steps. The plywood stays for the push."}
+{"n":216,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the plywood at the pier. Nobody past the south escape. We push in 8 steps. Arc on the left lane, open."}
