@@ -307,3 +307,6 @@
 {"n":307,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south escape. arc left open. 7 steps. The shutter stays for the push."}
 {"n":308,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at the Lot. Nobody past the south escape. We push in 8 steps. Arc on the left lane, open."}
 {"n":309,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot south escape. Nia keeps the shutter for the push. 2 steps, arc on the left lane, open."}
+{"n":310,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south escape. arc left open. 3 steps. The shutter stays for the push."}
+{"n":311,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the shutter at the Lot. Nobody past the south escape. We push in 4 steps. Arc on the left lane, open."}
+{"n":312,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot south escape. Ivo keeps the shutter for the push. 5 steps, arc on the left lane, open."}
