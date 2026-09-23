@@ -676,3 +676,6 @@
 {"n":676,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at Mast yard. Nobody past the north escape. We push in 7 steps. Arc on the left lane, open."}
 {"n":677,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard north escape. Nia keeps the drum for the push. 8 steps, arc on the left lane, open."}
 {"n":678,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north escape. arc left open. 2 steps. The drum stays for the push."}
+{"n":679,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at Mast yard. Nobody past the north escape. We push in 3 steps. Arc on the left lane, open."}
+{"n":680,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard north escape. Ivo keeps the drum for the push. 4 steps, arc on the left lane, open."}
+{"n":681,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north escape. arc left open. 5 steps. The drum stays for the push."}
