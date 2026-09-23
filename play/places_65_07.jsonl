@@ -910,3 +910,6 @@
 {"n":910,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east curb. arc left open. 5 steps. The lamp stays for the hold."}
 {"n":911,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at South stair. Nobody past the east curb. We hold in 6 steps. Arc on the left lane, open."}
 {"n":912,"kind":"place","name":"South stair east curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair east curb. Ivo keeps the lamp for the hold. 7 steps, arc on the left lane, open."}
+{"n":913,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east curb. arc left open. 8 steps. The lamp stays for the hold."}
+{"n":914,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at South stair. Nobody past the east curb. We hold in 2 steps. Arc on the left lane, open."}
+{"n":915,"kind":"place","name":"South stair east curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair east curb. Bess keeps the lamp for the hold. 3 steps, arc on the left lane, open."}
