@@ -876,3 +876,6 @@
 {"n":876,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at South stair. Nobody past the south escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":877,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"South stair south escape. Nia keeps the lamp for the push. 4 steps, arc on the left lane, open."}
 {"n":878,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south escape. arc left open. 5 steps. The lamp stays for the push."}
+{"n":879,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the lamp at South stair. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":880,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair south escape. Ivo keeps the lamp for the push. 7 steps, arc on the left lane, open."}
+{"n":881,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south escape. arc left open. 8 steps. The lamp stays for the push."}
