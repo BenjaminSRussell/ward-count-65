@@ -965,3 +965,6 @@
 {"n":965,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the north escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":966,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence north escape. Matt keeps the rebar for the push. 4 steps, arc on the left lane, open."}
 {"n":967,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north escape. arc left open. 5 steps. The rebar stays for the push."}
+{"n":968,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rebar at Stockyard fence. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":969,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence north escape. Nia keeps the rebar for the push. 7 steps, arc on the left lane, open."}
+{"n":970,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north escape. arc left open. 8 steps. The rebar stays for the push."}
