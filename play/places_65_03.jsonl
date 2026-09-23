@@ -530,3 +530,6 @@
 {"n":530,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south escape. arc left open. 7 steps. The barrel stays for the push."}
 {"n":531,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Last Light. Nobody past the south escape. We push in 8 steps. Arc on the left lane, open."}
 {"n":532,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light south escape. Ivo keeps the barrel for the push. 2 steps, arc on the left lane, open."}
+{"n":533,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south escape. arc left open. 3 steps. The barrel stays for the push."}
+{"n":534,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at Last Light. Nobody past the south escape. We push in 4 steps. Arc on the left lane, open."}
+{"n":535,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light south escape. Bess keeps the barrel for the push. 5 steps, arc on the left lane, open."}
