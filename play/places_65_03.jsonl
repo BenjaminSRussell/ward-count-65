@@ -848,3 +848,6 @@
 {"n":848,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south escape. arc left open. 3 steps. The lamp stays for the push."}
 {"n":849,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at Mast yard. Nobody past the south escape. We push in 4 steps. Arc on the left lane, open."}
 {"n":850,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard south escape. Matt keeps the lamp for the push. 5 steps, arc on the left lane, open."}
+{"n":851,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south escape. arc left open. 6 steps. The lamp stays for the push."}
+{"n":852,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Mast yard. Nobody past the south escape. We push in 7 steps. Arc on the left lane, open."}
+{"n":853,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard south escape. Nia keeps the lamp for the push. 8 steps, arc on the left lane, open."}
