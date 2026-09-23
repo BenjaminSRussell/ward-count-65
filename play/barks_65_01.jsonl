@@ -399,3 +399,6 @@
 {"n":399,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard north escape. Bess keeps the hydrant for the push. 4 steps, arc on the left lane, open."}
 {"n":400,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north escape. arc left open. 5 steps. The hydrant stays for the push."}
 {"n":401,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Drydock. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":402,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock north escape. Matt keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
+{"n":403,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north escape. arc left open. 8 steps. The hydrant stays for the push."}
+{"n":404,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the hydrant at Drydock. Nobody past the north escape. We push in 2 steps. Arc on the left lane, open."}
