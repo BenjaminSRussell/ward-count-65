@@ -645,3 +645,6 @@
 {"n":645,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot south escape. Nia keeps the drum for the push. 2 steps, arc on the left lane, open."}
 {"n":646,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south escape. arc left open. 3 steps. The drum stays for the push."}
 {"n":647,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at the Lot. Nobody past the south escape. We push in 4 steps. Arc on the left lane, open."}
+{"n":648,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot south escape. Ivo keeps the drum for the push. 5 steps, arc on the left lane, open."}
+{"n":649,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south escape. arc left open. 6 steps. The drum stays for the push."}
+{"n":650,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at the Lot. Nobody past the south escape. We push in 7 steps. Arc on the left lane, open."}
