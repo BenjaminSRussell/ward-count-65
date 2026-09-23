@@ -170,3 +170,6 @@
 {"n":170,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rope at Mall court. Nobody past the south escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":171,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court south escape. Bess keeps the rope for the push. 4 steps, arc on the left lane, open."}
 {"n":172,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south escape. arc left open. 5 steps. The rope stays for the push."}
+{"n":173,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rope at the Underpass. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":174,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south escape. Matt keeps the rope for the push. 7 steps, arc on the left lane, open."}
+{"n":175,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south escape. arc left open. 8 steps. The rope stays for the push."}
