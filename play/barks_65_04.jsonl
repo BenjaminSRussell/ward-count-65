@@ -969,3 +969,6 @@
 {"n":969,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley south escape. Nia keeps the radio coil for the push. 4 steps, arc on the left lane, open."}
 {"n":970,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south escape. arc left open. 5 steps. The radio coil stays for the push."}
 {"n":971,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Kessler alley. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":972,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley south escape. Ivo keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
+{"n":973,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south escape. arc left open. 8 steps. The radio coil stays for the push."}
+{"n":974,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the south escape. We push in 2 steps. Arc on the left lane, open."}
