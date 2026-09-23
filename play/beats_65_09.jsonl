@@ -939,3 +939,6 @@
 {"n":939,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at the pier. Nobody past the north curb. We hold in 4 steps. Arc on the left lane, open."}
 {"n":940,"kind":"place","name":"the pier north curb","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier north curb. Ivo keeps the lamp for the hold. 5 steps, arc on the left lane, open."}
 {"n":941,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north curb. arc left open. 6 steps. The lamp stays for the hold."}
+{"n":942,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at the pier. Nobody past the north curb. We hold in 7 steps. Arc on the left lane, open."}
+{"n":943,"kind":"place","name":"the pier north curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier north curb. Bess keeps the lamp for the hold. 8 steps, arc on the left lane, open."}
+{"n":944,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north curb. arc left open. 2 steps. The lamp stays for the hold."}
