@@ -604,3 +604,6 @@
 {"n":604,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley east escape. Ivo keeps the drum for the push. 7 steps, arc on the left lane, open."}
 {"n":605,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east escape. arc left open. 8 steps. The drum stays for the push."}
 {"n":606,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at Kessler alley. Nobody past the east escape. We push in 2 steps. Arc on the left lane, open."}
+{"n":607,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley east escape. Bess keeps the drum for the push. 3 steps, arc on the left lane, open."}
+{"n":608,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east escape. arc left open. 4 steps. The drum stays for the push."}
+{"n":609,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at the Lot. Nobody past the east escape. We push in 5 steps. Arc on the left lane, open."}
