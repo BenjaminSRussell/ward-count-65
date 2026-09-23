@@ -787,3 +787,6 @@
 {"n":787,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at Kessler alley. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
 {"n":788,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley north escape. Ivo keeps the badge door for the push. 7 steps, arc on the left lane, open."}
 {"n":789,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north escape. arc left open. 8 steps. The badge door stays for the push."}
+{"n":790,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at Kessler alley. Nobody past the north escape. We push in 2 steps. Arc on the left lane, open."}
+{"n":791,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley north escape. Bess keeps the badge door for the push. 3 steps, arc on the left lane, open."}
+{"n":792,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north escape. arc left open. 4 steps. The badge door stays for the push."}
