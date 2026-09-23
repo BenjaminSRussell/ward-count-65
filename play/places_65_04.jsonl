@@ -397,3 +397,6 @@
 {"n":397,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south escape. arc left open. 6 steps. The shutter stays for the push."}
 {"n":398,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the shutter at the pier. Nobody past the south escape. We push in 7 steps. Arc on the left lane, open."}
 {"n":399,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier south escape. Bess keeps the shutter for the push. 8 steps, arc on the left lane, open."}
+{"n":400,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south escape. arc left open. 2 steps. The shutter stays for the push."}
+{"n":401,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at Clinic roof. Nobody past the south escape. We push in 3 steps. Arc on the left lane, open."}
+{"n":402,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof south escape. Matt keeps the shutter for the push. 4 steps, arc on the left lane, open."}
