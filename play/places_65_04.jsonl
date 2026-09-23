@@ -841,3 +841,6 @@
 {"n":841,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south escape. arc left open. 2 steps. The badge door stays for the push."}
 {"n":842,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at Mall court. Nobody past the south escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":843,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court south escape. Bess keeps the badge door for the push. 4 steps, arc on the left lane, open."}
+{"n":844,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south escape. arc left open. 5 steps. The badge door stays for the push."}
+{"n":845,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at the Underpass. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":846,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass south escape. Matt keeps the badge door for the push. 7 steps, arc on the left lane, open."}
