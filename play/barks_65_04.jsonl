@@ -903,3 +903,6 @@
 {"n":903,"kind":"place","name":"the pier south escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier south escape. Bess keeps the badge door for the push. 8 steps, arc on the left lane, open."}
 {"n":904,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south escape. arc left open. 2 steps. The badge door stays for the push."}
 {"n":905,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at Clinic roof. Nobody past the south escape. We push in 3 steps. Arc on the left lane, open."}
+{"n":906,"kind":"place","name":"Clinic roof south escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof south escape. Matt keeps the badge door for the push. 4 steps, arc on the left lane, open."}
+{"n":907,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south escape. arc left open. 5 steps. The badge door stays for the push."}
+{"n":908,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the badge door at Clinic roof. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
