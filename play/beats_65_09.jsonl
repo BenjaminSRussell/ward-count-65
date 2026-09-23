@@ -18,3 +18,6 @@
 {"n":18,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at the Lot. Nobody past the east curb. We hold in 7 steps. Arc on the left lane, open."}
 {"n":19,"kind":"place","name":"the Lot east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot east curb. Bess keeps the radio coil for the hold. 8 steps, arc on the left lane, open."}
 {"n":20,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east curb. arc left open. 2 steps. The radio coil stays for the hold."}
+{"n":21,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the east curb. We hold in 3 steps. Arc on the left lane, open."}
+{"n":22,"kind":"place","name":"Stockyard fence east curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence east curb. Matt keeps the radio coil for the hold. 4 steps, arc on the left lane, open."}
+{"n":23,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east curb. arc left open. 5 steps. The radio coil stays for the hold."}
