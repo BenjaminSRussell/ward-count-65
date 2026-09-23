@@ -734,3 +734,6 @@
 {"n":734,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Switchyard. Nobody past the north escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":735,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard north escape. Bess keeps the crate for the push. 4 steps, arc on the left lane, open."}
 {"n":736,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north escape. arc left open. 5 steps. The crate stays for the push."}
+{"n":737,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Drydock. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":738,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock north escape. Matt keeps the crate for the push. 7 steps, arc on the left lane, open."}
+{"n":739,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north escape. arc left open. 8 steps. The crate stays for the push."}
