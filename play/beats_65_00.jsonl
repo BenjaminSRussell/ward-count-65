@@ -399,3 +399,6 @@
 {"n":399,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the shutter at Drydock. Nobody past the east escape. We push in 5 steps. Arc on the left lane, open."}
 {"n":400,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock east escape. Ivo keeps the shutter for the push. 6 steps, arc on the left lane, open."}
 {"n":401,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east escape. arc left open. 7 steps. The shutter stays for the push."}
+{"n":402,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the shutter at Drydock. Nobody past the east escape. We push in 8 steps. Arc on the left lane, open."}
+{"n":403,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock east escape. Bess keeps the shutter for the push. 2 steps, arc on the left lane, open."}
+{"n":404,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east escape. arc left open. 3 steps. The shutter stays for the push."}
