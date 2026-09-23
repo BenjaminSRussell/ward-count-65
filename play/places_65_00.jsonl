@@ -782,3 +782,6 @@
 {"n":782,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east escape. arc left open. 3 steps. The badge door stays for the push."}
 {"n":783,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at the Lot. Nobody past the east escape. We push in 4 steps. Arc on the left lane, open."}
 {"n":784,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot east escape. Ivo keeps the badge door for the push. 5 steps, arc on the left lane, open."}
+{"n":785,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east escape. arc left open. 6 steps. The badge door stays for the push."}
+{"n":786,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at the Lot. Nobody past the east escape. We push in 7 steps. Arc on the left lane, open."}
+{"n":787,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east escape. Bess keeps the badge door for the push. 8 steps, arc on the left lane, open."}
