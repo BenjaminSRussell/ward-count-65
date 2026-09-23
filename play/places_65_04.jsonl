@@ -463,3 +463,6 @@
 {"n":463,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. arc left open. 2 steps. The awning stays for the push."}
 {"n":464,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the awning at Kessler alley. Nobody past the south escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":465,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley south escape. Nia keeps the awning for the push. 4 steps, arc on the left lane, open."}
+{"n":466,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south escape. arc left open. 5 steps. The awning stays for the push."}
+{"n":467,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the awning at Kessler alley. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":468,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley south escape. Ivo keeps the awning for the push. 7 steps, arc on the left lane, open."}
