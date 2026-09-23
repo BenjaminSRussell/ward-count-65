@@ -853,3 +853,6 @@
 {"n":853,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot north curb. Nia keeps the lamp for the hold. 2 steps, arc on the left lane, open."}
 {"n":854,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north curb. arc left open. 3 steps. The lamp stays for the hold."}
 {"n":855,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at the Lot. Nobody past the north curb. We hold in 4 steps. Arc on the left lane, open."}
+{"n":856,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot north curb. Ivo keeps the lamp for the hold. 5 steps, arc on the left lane, open."}
+{"n":857,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north curb. arc left open. 6 steps. The lamp stays for the hold."}
+{"n":858,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at the Lot. Nobody past the north curb. We hold in 7 steps. Arc on the left lane, open."}
