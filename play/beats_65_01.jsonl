@@ -986,3 +986,6 @@
 {"n":986,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at Mall court. Nobody past the north escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":987,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court north escape. Bess keeps the rebar for the push. 4 steps, arc on the left lane, open."}
 {"n":988,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north escape. arc left open. 5 steps. The rebar stays for the push."}
+{"n":989,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at the Underpass. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":990,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass north escape. Matt keeps the rebar for the push. 7 steps, arc on the left lane, open."}
+{"n":991,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north escape. arc left open. 8 steps. The rebar stays for the push."}
