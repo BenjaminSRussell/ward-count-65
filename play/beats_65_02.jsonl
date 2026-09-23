@@ -301,3 +301,6 @@
 {"n":301,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at Stockyard fence. Nobody past the north escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":302,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence north escape. Matt keeps the shutter for the push. 4 steps, arc on the left lane, open."}
 {"n":303,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north escape. arc left open. 5 steps. The shutter stays for the push."}
+{"n":304,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at Stockyard fence. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":305,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence north escape. Nia keeps the shutter for the push. 7 steps, arc on the left lane, open."}
+{"n":306,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north escape. arc left open. 8 steps. The shutter stays for the push."}
