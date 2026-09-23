@@ -676,3 +676,6 @@
 {"n":676,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south escape. arc left open. 5 steps. The drum stays for the push."}
 {"n":677,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at the Underpass. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
 {"n":678,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass south escape. Matt keeps the drum for the push. 7 steps, arc on the left lane, open."}
+{"n":679,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south escape. arc left open. 8 steps. The drum stays for the push."}
+{"n":680,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at the Underpass. Nobody past the south escape. We push in 2 steps. Arc on the left lane, open."}
+{"n":681,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Underpass south escape. Nia keeps the drum for the push. 3 steps, arc on the left lane, open."}
