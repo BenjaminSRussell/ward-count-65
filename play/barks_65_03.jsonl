@@ -757,3 +757,6 @@
 {"n":757,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock south escape. Nia keeps the crate for the push. 3 steps, arc on the left lane, open."}
 {"n":758,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south escape. arc left open. 4 steps. The crate stays for the push."}
 {"n":759,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the crate at Drydock. Nobody past the south escape. We push in 5 steps. Arc on the left lane, open."}
+{"n":760,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock south escape. Ivo keeps the crate for the push. 6 steps, arc on the left lane, open."}
+{"n":761,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south escape. arc left open. 7 steps. The crate stays for the push."}
+{"n":762,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Drydock. Nobody past the south escape. We push in 8 steps. Arc on the left lane, open."}
