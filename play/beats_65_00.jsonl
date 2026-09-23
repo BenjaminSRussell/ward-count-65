@@ -183,3 +183,6 @@
 {"n":183,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rope at South stair. Nobody past the east escape. We push in 6 steps. Arc on the left lane, open."}
 {"n":184,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair east escape. Ivo keeps the rope for the push. 7 steps, arc on the left lane, open."}
 {"n":185,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east escape. arc left open. 8 steps. The rope stays for the push."}
+{"n":186,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rope at South stair. Nobody past the east escape. We push in 2 steps. Arc on the left lane, open."}
+{"n":187,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east escape. Bess keeps the rope for the push. 3 steps, arc on the left lane, open."}
+{"n":188,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east escape. arc left open. 4 steps. The rope stays for the push."}
