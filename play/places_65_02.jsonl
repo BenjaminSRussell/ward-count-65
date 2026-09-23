@@ -138,3 +138,6 @@
 {"n":138,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north escape. arc left open. 8 steps. The rope stays for the push."}
 {"n":139,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rope at Stockyard fence. Nobody past the north escape. We push in 2 steps. Arc on the left lane, open."}
 {"n":140,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence north escape. Ivo keeps the rope for the push. 3 steps, arc on the left lane, open."}
+{"n":141,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north escape. arc left open. 4 steps. The rope stays for the push."}
+{"n":142,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rope at Stockyard fence. Nobody past the north escape. We push in 5 steps. Arc on the left lane, open."}
+{"n":143,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence north escape. Bess keeps the rope for the push. 6 steps, arc on the left lane, open."}
