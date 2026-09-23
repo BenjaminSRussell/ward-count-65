@@ -606,3 +606,6 @@
 {"n":606,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at the pier. Nobody past the north curb. We hold in 7 steps. Arc on the left lane, open."}
 {"n":607,"kind":"place","name":"the pier north curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier north curb. Bess keeps the barrel for the hold. 8 steps, arc on the left lane, open."}
 {"n":608,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north curb. arc left open. 2 steps. The barrel stays for the hold."}
+{"n":609,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Clinic roof. Nobody past the north curb. We hold in 3 steps. Arc on the left lane, open."}
+{"n":610,"kind":"place","name":"Clinic roof north curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof north curb. Matt keeps the barrel for the hold. 4 steps, arc on the left lane, open."}
+{"n":611,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north curb. arc left open. 5 steps. The barrel stays for the hold."}
