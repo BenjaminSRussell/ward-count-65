@@ -853,3 +853,6 @@
 {"n":853,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard south escape. Nia keeps the lamp for the push. 8 steps, arc on the left lane, open."}
 {"n":854,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south escape. arc left open. 2 steps. The lamp stays for the push."}
 {"n":855,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the lamp at Mast yard. Nobody past the south escape. We push in 3 steps. Arc on the left lane, open."}
+{"n":856,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard south escape. Ivo keeps the lamp for the push. 4 steps, arc on the left lane, open."}
+{"n":857,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south escape. arc left open. 5 steps. The lamp stays for the push."}
+{"n":858,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the lamp at Mast yard. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
