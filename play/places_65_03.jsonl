@@ -587,3 +587,6 @@
 {"n":587,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south escape. arc left open. 8 steps. The barrel stays for the push."}
 {"n":588,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Drydock. Nobody past the south escape. We push in 2 steps. Arc on the left lane, open."}
 {"n":589,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock south escape. Nia keeps the barrel for the push. 3 steps, arc on the left lane, open."}
+{"n":590,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south escape. arc left open. 4 steps. The barrel stays for the push."}
+{"n":591,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Drydock. Nobody past the south escape. We push in 5 steps. Arc on the left lane, open."}
+{"n":592,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock south escape. Ivo keeps the barrel for the push. 6 steps, arc on the left lane, open."}
