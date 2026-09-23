@@ -793,3 +793,6 @@
 {"n":793,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence east escape. Nia keeps the badge door for the push. 7 steps, arc on the left lane, open."}
 {"n":794,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east escape. arc left open. 8 steps. The badge door stays for the push."}
 {"n":795,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at Stockyard fence. Nobody past the east escape. We push in 2 steps. Arc on the left lane, open."}
+{"n":796,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east escape. Ivo keeps the badge door for the push. 3 steps, arc on the left lane, open."}
+{"n":797,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east escape. arc left open. 4 steps. The badge door stays for the push."}
+{"n":798,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at Stockyard fence. Nobody past the east escape. We push in 5 steps. Arc on the left lane, open."}
