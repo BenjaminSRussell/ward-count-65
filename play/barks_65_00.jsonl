@@ -685,3 +685,6 @@
 {"n":685,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair east escape. Nia keeps the drum for the push. 4 steps, arc on the left lane, open."}
 {"n":686,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east escape. arc left open. 5 steps. The drum stays for the push."}
 {"n":687,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at South stair. Nobody past the east escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":688,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair east escape. Ivo keeps the drum for the push. 7 steps, arc on the left lane, open."}
+{"n":689,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east escape. arc left open. 8 steps. The drum stays for the push."}
+{"n":690,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at South stair. Nobody past the east escape. We push in 2 steps. Arc on the left lane, open."}
