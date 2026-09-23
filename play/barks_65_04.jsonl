@@ -816,3 +816,6 @@
 {"n":816,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot south escape. Ivo keeps the badge door for the push. 5 steps, arc on the left lane, open."}
 {"n":817,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south escape. arc left open. 6 steps. The badge door stays for the push."}
 {"n":818,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at the Lot. Nobody past the south escape. We push in 7 steps. Arc on the left lane, open."}
+{"n":819,"kind":"place","name":"the Lot south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot south escape. Bess keeps the badge door for the push. 8 steps, arc on the left lane, open."}
+{"n":820,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south escape. arc left open. 2 steps. The badge door stays for the push."}
+{"n":821,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at Stockyard fence. Nobody past the south escape. We push in 3 steps. Arc on the left lane, open."}
