@@ -25,3 +25,6 @@
 {"n":25,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south escape. arc left open. 5 steps. The rebar stays for the push."}
 {"n":26,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at Mast yard. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
 {"n":27,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard south escape. Bess keeps the rebar for the push. 7 steps, arc on the left lane, open."}
+{"n":28,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south escape. arc left open. 8 steps. The rebar stays for the push."}
+{"n":29,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at Last Light. Nobody past the south escape. We push in 2 steps. Arc on the left lane, open."}
+{"n":30,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light south escape. Matt keeps the rebar for the push. 3 steps, arc on the left lane, open."}
