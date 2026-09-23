@@ -100,3 +100,6 @@
 {"n":100,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north escape. arc left open. 6 steps. The plywood stays for the push."}
 {"n":101,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at Kessler alley. Nobody past the north escape. We push in 7 steps. Arc on the left lane, open."}
 {"n":102,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley north escape. Matt keeps the plywood for the push. 8 steps, arc on the left lane, open."}
+{"n":103,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north escape. arc left open. 2 steps. The plywood stays for the push."}
+{"n":104,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the plywood at Kessler alley. Nobody past the north escape. We push in 3 steps. Arc on the left lane, open."}
+{"n":105,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley north escape. Nia keeps the plywood for the push. 4 steps, arc on the left lane, open."}
