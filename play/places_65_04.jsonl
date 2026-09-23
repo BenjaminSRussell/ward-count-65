@@ -703,3 +703,6 @@
 {"n":703,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south escape. arc left open. 4 steps. The drum stays for the push."}
 {"n":704,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at Last Light. Nobody past the south escape. We push in 5 steps. Arc on the left lane, open."}
 {"n":705,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light south escape. Nia keeps the drum for the push. 6 steps, arc on the left lane, open."}
+{"n":706,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south escape. arc left open. 7 steps. The drum stays for the push."}
+{"n":707,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at Last Light. Nobody past the south escape. We push in 8 steps. Arc on the left lane, open."}
+{"n":708,"kind":"place","name":"Last Light south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light south escape. Ivo keeps the drum for the push. 2 steps, arc on the left lane, open."}
