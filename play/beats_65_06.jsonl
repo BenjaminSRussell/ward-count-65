@@ -786,3 +786,6 @@
 {"n":786,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Drydock. Nobody past the west curb. We hold in 8 steps. Arc on the left lane, open."}
 {"n":787,"kind":"place","name":"Drydock west curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock west curb. Bess keeps the drum for the hold. 2 steps, arc on the left lane, open."}
 {"n":788,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west curb. arc left open. 3 steps. The drum stays for the hold."}
+{"n":789,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at High line. Nobody past the west curb. We hold in 4 steps. Arc on the left lane, open."}
+{"n":790,"kind":"place","name":"High line west curb","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line west curb. Matt keeps the drum for the hold. 5 steps, arc on the left lane, open."}
+{"n":791,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west curb. arc left open. 6 steps. The drum stays for the hold."}
