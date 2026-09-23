@@ -268,3 +268,6 @@
 {"n":268,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line south escape. Ivo keeps the plywood for the push. 4 steps, arc on the left lane, open."}
 {"n":269,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south escape. arc left open. 5 steps. The plywood stays for the push."}
 {"n":270,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at High line. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":271,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line south escape. Bess keeps the plywood for the push. 7 steps, arc on the left lane, open."}
+{"n":272,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south escape. arc left open. 8 steps. The plywood stays for the push."}
+{"n":273,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Ward gate. Nobody past the south escape. We push in 2 steps. Arc on the left lane, open."}
