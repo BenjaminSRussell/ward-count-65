@@ -525,3 +525,6 @@
 {"n":525,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at the pier. Nobody past the east escape. We push in 5 steps. Arc on the left lane, open."}
 {"n":526,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier east escape. Matt keeps the awning for the push. 6 steps, arc on the left lane, open."}
 {"n":527,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east escape. arc left open. 7 steps. The awning stays for the push."}
+{"n":528,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the awning at the pier. Nobody past the east escape. We push in 8 steps. Arc on the left lane, open."}
+{"n":529,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier east escape. Nia keeps the awning for the push. 2 steps, arc on the left lane, open."}
+{"n":530,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east escape. arc left open. 3 steps. The awning stays for the push."}
