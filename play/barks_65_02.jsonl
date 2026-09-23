@@ -995,3 +995,6 @@
 {"n":995,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court north escape. Bess keeps the radio coil for the push. 4 steps, arc on the left lane, open."}
 {"n":996,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north escape. arc left open. 5 steps. The radio coil stays for the push."}
 {"n":997,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at the Underpass. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":998,"kind":"place","name":"the Underpass north escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass north escape. Matt keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
+{"n":999,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north escape. arc left open. 8 steps. The radio coil stays for the push."}
+{"n":1000,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at the Underpass. Nobody past the north escape. We push in 2 steps. Arc on the left lane, open."}
