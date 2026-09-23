@@ -725,3 +725,6 @@
 {"n":725,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof north escape. Nia keeps the drum for the push. 7 steps, arc on the left lane, open."}
 {"n":726,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north escape. arc left open. 8 steps. The drum stays for the push."}
 {"n":727,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at Clinic roof. Nobody past the north escape. We push in 2 steps. Arc on the left lane, open."}
+{"n":728,"kind":"place","name":"Clinic roof north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof north escape. Ivo keeps the drum for the push. 3 steps, arc on the left lane, open."}
+{"n":729,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north escape. arc left open. 4 steps. The drum stays for the push."}
+{"n":730,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the drum at Clinic roof. Nobody past the north escape. We push in 5 steps. Arc on the left lane, open."}
