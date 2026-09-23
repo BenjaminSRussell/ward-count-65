@@ -249,3 +249,6 @@
 {"n":249,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line north escape. Nia keeps the plywood for the push. 8 steps, arc on the left lane, open."}
 {"n":250,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north escape. arc left open. 2 steps. The plywood stays for the push."}
 {"n":251,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the plywood at High line. Nobody past the north escape. We push in 3 steps. Arc on the left lane, open."}
+{"n":252,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line north escape. Ivo keeps the plywood for the push. 4 steps, arc on the left lane, open."}
+{"n":253,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north escape. arc left open. 5 steps. The plywood stays for the push."}
+{"n":254,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at High line. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
