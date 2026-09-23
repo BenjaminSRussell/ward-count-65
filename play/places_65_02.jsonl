@@ -42,3 +42,6 @@
 {"n":42,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north escape. arc left open. 3 steps. The rebar stays for the push."}
 {"n":43,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rebar at the pier. Nobody past the north escape. We push in 4 steps. Arc on the left lane, open."}
 {"n":44,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier north escape. Ivo keeps the rebar for the push. 5 steps, arc on the left lane, open."}
+{"n":45,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north escape. arc left open. 6 steps. The rebar stays for the push."}
+{"n":46,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at the pier. Nobody past the north escape. We push in 7 steps. Arc on the left lane, open."}
+{"n":47,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier north escape. Bess keeps the rebar for the push. 8 steps, arc on the left lane, open."}
