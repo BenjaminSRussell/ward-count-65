@@ -102,3 +102,6 @@
 {"n":102,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Switchyard. Nobody past the west curb. We hold in 3 steps. Arc on the left lane, open."}
 {"n":103,"kind":"place","name":"Switchyard west curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard west curb. Bess keeps the rebar for the hold. 4 steps, arc on the left lane, open."}
 {"n":104,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west curb. arc left open. 5 steps. The rebar stays for the hold."}
+{"n":105,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at Drydock. Nobody past the west curb. We hold in 6 steps. Arc on the left lane, open."}
+{"n":106,"kind":"place","name":"Drydock west curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock west curb. Matt keeps the rebar for the hold. 7 steps, arc on the left lane, open."}
+{"n":107,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west curb. arc left open. 8 steps. The rebar stays for the hold."}
