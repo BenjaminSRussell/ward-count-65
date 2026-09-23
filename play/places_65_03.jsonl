@@ -827,3 +827,6 @@
 {"n":827,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south escape. arc left open. 3 steps. The lamp stays for the push."}
 {"n":828,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Mall court. Nobody past the south escape. We push in 4 steps. Arc on the left lane, open."}
 {"n":829,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court south escape. Nia keeps the lamp for the push. 5 steps, arc on the left lane, open."}
+{"n":830,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south escape. arc left open. 6 steps. The lamp stays for the push."}
+{"n":831,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the lamp at Mall court. Nobody past the south escape. We push in 7 steps. Arc on the left lane, open."}
+{"n":832,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court south escape. Ivo keeps the lamp for the push. 8 steps, arc on the left lane, open."}
