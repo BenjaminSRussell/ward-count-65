@@ -421,3 +421,6 @@
 {"n":421,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock south escape. Nia keeps the hydrant for the push. 3 steps, arc on the left lane, open."}
 {"n":422,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south escape. arc left open. 4 steps. The hydrant stays for the push."}
 {"n":423,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at Drydock. Nobody past the south escape. We push in 5 steps. Arc on the left lane, open."}
+{"n":424,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock south escape. Ivo keeps the hydrant for the push. 6 steps, arc on the left lane, open."}
+{"n":425,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south escape. arc left open. 7 steps. The hydrant stays for the push."}
+{"n":426,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Drydock. Nobody past the south escape. We push in 8 steps. Arc on the left lane, open."}
