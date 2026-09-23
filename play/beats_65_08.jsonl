@@ -958,3 +958,6 @@
 {"n":958,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Switchyard. Nobody past the east curb. We hold in 3 steps. Arc on the left lane, open."}
 {"n":959,"kind":"place","name":"Switchyard east curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east curb. Bess keeps the badge door for the hold. 4 steps, arc on the left lane, open."}
 {"n":960,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east curb. arc left open. 5 steps. The badge door stays for the hold."}
+{"n":961,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Drydock. Nobody past the east curb. We hold in 6 steps. Arc on the left lane, open."}
+{"n":962,"kind":"place","name":"Drydock east curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock east curb. Matt keeps the badge door for the hold. 7 steps, arc on the left lane, open."}
+{"n":963,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east curb. arc left open. 8 steps. The badge door stays for the hold."}
