@@ -937,3 +937,6 @@
 {"n":937,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north escape. arc left open. 3 steps. The rebar stays for the push."}
 {"n":938,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at Ward gate. Nobody past the north escape. We push in 4 steps. Arc on the left lane, open."}
 {"n":939,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate north escape. Bess keeps the rebar for the push. 5 steps, arc on the left lane, open."}
+{"n":940,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north escape. arc left open. 6 steps. The rebar stays for the push."}
+{"n":941,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at Kessler alley. Nobody past the north escape. We push in 7 steps. Arc on the left lane, open."}
+{"n":942,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley north escape. Matt keeps the rebar for the push. 8 steps, arc on the left lane, open."}
