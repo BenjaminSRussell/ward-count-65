@@ -743,3 +743,6 @@
 {"n":743,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard north escape. Bess keeps the drum for the push. 4 steps, arc on the left lane, open."}
 {"n":744,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north escape. arc left open. 5 steps. The drum stays for the push."}
 {"n":745,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at Drydock. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":746,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock north escape. Matt keeps the drum for the push. 7 steps, arc on the left lane, open."}
+{"n":747,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north escape. arc left open. 8 steps. The drum stays for the push."}
+{"n":748,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at Drydock. Nobody past the north escape. We push in 2 steps. Arc on the left lane, open."}
