@@ -615,3 +615,6 @@
 {"n":615,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north escape. arc left open. 2 steps. The drum stays for the push."}
 {"n":616,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at Kessler alley. Nobody past the north escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":617,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley north escape. Nia keeps the drum for the push. 4 steps, arc on the left lane, open."}
+{"n":618,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north escape. arc left open. 5 steps. The drum stays for the push."}
+{"n":619,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at Kessler alley. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":620,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north escape. Ivo keeps the drum for the push. 7 steps, arc on the left lane, open."}
