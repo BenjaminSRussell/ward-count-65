@@ -547,3 +547,6 @@
 {"n":547,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof east escape. Bess keeps the awning for the push. 6 steps, arc on the left lane, open."}
 {"n":548,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east escape. arc left open. 7 steps. The awning stays for the push."}
 {"n":549,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at Switchyard. Nobody past the east escape. We push in 8 steps. Arc on the left lane, open."}
+{"n":550,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard east escape. Matt keeps the awning for the push. 2 steps, arc on the left lane, open."}
+{"n":551,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east escape. arc left open. 3 steps. The awning stays for the push."}
+{"n":552,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the awning at Switchyard. Nobody past the east escape. We push in 4 steps. Arc on the left lane, open."}
