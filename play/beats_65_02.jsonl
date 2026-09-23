@@ -91,3 +91,6 @@
 {"n":91,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rebar at High line. Nobody past the north escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":92,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line north escape. Ivo keeps the rebar for the push. 4 steps, arc on the left lane, open."}
 {"n":93,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north escape. arc left open. 5 steps. The rebar stays for the push."}
+{"n":94,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at High line. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":95,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line north escape. Bess keeps the rebar for the push. 7 steps, arc on the left lane, open."}
+{"n":96,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north escape. arc left open. 8 steps. The rebar stays for the push."}
