@@ -781,3 +781,6 @@
 {"n":781,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Ward gate south escape. Nia keeps the lamp for the push. 6 steps, arc on the left lane, open."}
 {"n":782,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south escape. arc left open. 7 steps. The lamp stays for the push."}
 {"n":783,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the lamp at Ward gate. Nobody past the south escape. We push in 8 steps. Arc on the left lane, open."}
+{"n":784,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate south escape. Ivo keeps the lamp for the push. 2 steps, arc on the left lane, open."}
+{"n":785,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south escape. arc left open. 3 steps. The lamp stays for the push."}
+{"n":786,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the lamp at Ward gate. Nobody past the south escape. We push in 4 steps. Arc on the left lane, open."}
