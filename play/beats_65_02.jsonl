@@ -973,3 +973,6 @@
 {"n":973,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the north escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":974,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence north escape. Matt keeps the radio coil for the push. 4 steps, arc on the left lane, open."}
 {"n":975,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north escape. arc left open. 5 steps. The radio coil stays for the push."}
+{"n":976,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the north escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":977,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence north escape. Nia keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
+{"n":978,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north escape. arc left open. 8 steps. The radio coil stays for the push."}
