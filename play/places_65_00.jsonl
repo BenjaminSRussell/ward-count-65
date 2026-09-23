@@ -557,3 +557,6 @@
 {"n":557,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east escape. arc left open. 2 steps. The awning stays for the push."}
 {"n":558,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at Switchyard. Nobody past the east escape. We push in 3 steps. Arc on the left lane, open."}
 {"n":559,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east escape. Bess keeps the awning for the push. 4 steps, arc on the left lane, open."}
+{"n":560,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east escape. arc left open. 5 steps. The awning stays for the push."}
+{"n":561,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at Drydock. Nobody past the east escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":562,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock east escape. Matt keeps the awning for the push. 7 steps, arc on the left lane, open."}
