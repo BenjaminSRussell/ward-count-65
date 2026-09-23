@@ -437,3 +437,6 @@
 {"n":437,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south escape. arc left open. 5 steps. The hydrant stays for the push."}
 {"n":438,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at High line. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
 {"n":439,"kind":"place","name":"High line south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south escape. Bess keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
+{"n":440,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south escape. arc left open. 8 steps. The hydrant stays for the push."}
+{"n":441,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Ward gate. Nobody past the south escape. We push in 2 steps. Arc on the left lane, open."}
+{"n":442,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate south escape. Matt keeps the barrel for the push. 3 steps, arc on the left lane, open."}
