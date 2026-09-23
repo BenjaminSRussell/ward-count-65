@@ -762,3 +762,6 @@
 {"n":762,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east curb. arc left open. 3 steps. The drum stays for the hold."}
 {"n":763,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at the pier. Nobody past the east curb. We hold in 4 steps. Arc on the left lane, open."}
 {"n":764,"kind":"place","name":"the pier east curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier east curb. Ivo keeps the drum for the hold. 5 steps, arc on the left lane, open."}
+{"n":765,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east curb. arc left open. 6 steps. The drum stays for the hold."}
+{"n":766,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at the pier. Nobody past the east curb. We hold in 7 steps. Arc on the left lane, open."}
+{"n":767,"kind":"place","name":"the pier east curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier east curb. Bess keeps the drum for the hold. 8 steps, arc on the left lane, open."}
