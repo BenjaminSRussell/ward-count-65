@@ -748,3 +748,6 @@
 {"n":748,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard south escape. Ivo keeps the crate for the push. 8 steps, arc on the left lane, open."}
 {"n":749,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south escape. arc left open. 2 steps. The crate stays for the push."}
 {"n":750,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Switchyard. Nobody past the south escape. We push in 3 steps. Arc on the left lane, open."}
+{"n":751,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard south escape. Bess keeps the crate for the push. 4 steps, arc on the left lane, open."}
+{"n":752,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south escape. arc left open. 5 steps. The crate stays for the push."}
+{"n":753,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Drydock. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
