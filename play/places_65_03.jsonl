@@ -374,3 +374,6 @@
 {"n":374,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south escape. arc left open. 5 steps. The hydrant stays for the push."}
 {"n":375,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at South stair. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
 {"n":376,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair south escape. Ivo keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
+{"n":377,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south escape. arc left open. 8 steps. The hydrant stays for the push."}
+{"n":378,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at South stair. Nobody past the south escape. We push in 2 steps. Arc on the left lane, open."}
+{"n":379,"kind":"place","name":"South stair south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair south escape. Bess keeps the hydrant for the push. 3 steps, arc on the left lane, open."}
