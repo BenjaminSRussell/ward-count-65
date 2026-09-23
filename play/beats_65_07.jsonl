@@ -134,3 +134,6 @@
 {"n":134,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at High line. Nobody past the west curb. We hold in 6 steps. Arc on the left lane, open."}
 {"n":135,"kind":"place","name":"High line west curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line west curb. Bess keeps the radio coil for the hold. 7 steps, arc on the left lane, open."}
 {"n":136,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west curb. arc left open. 8 steps. The radio coil stays for the hold."}
+{"n":137,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Ward gate. Nobody past the east curb. We hold in 2 steps. Arc on the left lane, open."}
+{"n":138,"kind":"place","name":"Ward gate east curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate east curb. Matt keeps the plywood for the hold. 3 steps, arc on the left lane, open."}
+{"n":139,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east curb. arc left open. 4 steps. The plywood stays for the hold."}
