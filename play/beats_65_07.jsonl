@@ -293,3 +293,6 @@
 {"n":293,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at High line. Nobody past the east curb. We hold in 4 steps. Arc on the left lane, open."}
 {"n":294,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line east curb. Matt keeps the plywood for the hold. 5 steps, arc on the left lane, open."}
 {"n":295,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east curb. arc left open. 6 steps. The plywood stays for the hold."}
+{"n":296,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the plywood at High line. Nobody past the east curb. We hold in 7 steps. Arc on the left lane, open."}
+{"n":297,"kind":"place","name":"High line east curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line east curb. Nia keeps the plywood for the hold. 8 steps, arc on the left lane, open."}
+{"n":298,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east curb. arc left open. 2 steps. The plywood stays for the hold."}
