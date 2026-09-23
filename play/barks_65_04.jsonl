@@ -507,3 +507,6 @@
 {"n":507,"kind":"place","name":"Mall court south escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court south escape. Bess keeps the awning for the push. 4 steps, arc on the left lane, open."}
 {"n":508,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south escape. arc left open. 5 steps. The awning stays for the push."}
 {"n":509,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at the Underpass. Nobody past the south escape. We push in 6 steps. Arc on the left lane, open."}
+{"n":510,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass south escape. Matt keeps the awning for the push. 7 steps, arc on the left lane, open."}
+{"n":511,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south escape. arc left open. 8 steps. The awning stays for the push."}
+{"n":512,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the awning at the Underpass. Nobody past the south escape. We push in 2 steps. Arc on the left lane, open."}
