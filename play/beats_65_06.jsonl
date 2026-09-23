@@ -315,3 +315,6 @@
 {"n":315,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at Kessler alley. Nobody past the west curb. We hold in 6 steps. Arc on the left lane, open."}
 {"n":316,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west curb. Ivo keeps the shutter for the hold. 7 steps, arc on the left lane, open."}
 {"n":317,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west curb. arc left open. 8 steps. The shutter stays for the hold."}
+{"n":318,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Kessler alley. Nobody past the west curb. We hold in 2 steps. Arc on the left lane, open."}
+{"n":319,"kind":"place","name":"Kessler alley west curb","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west curb. Bess keeps the shutter for the hold. 3 steps, arc on the left lane, open."}
+{"n":320,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west curb. arc left open. 4 steps. The shutter stays for the hold."}
