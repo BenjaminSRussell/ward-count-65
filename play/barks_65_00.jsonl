@@ -610,3 +610,6 @@
 {"n":610,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot east escape. Matt keeps the drum for the push. 6 steps, arc on the left lane, open."}
 {"n":611,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east escape. arc left open. 7 steps. The drum stays for the push."}
 {"n":612,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at the Lot. Nobody past the east escape. We push in 8 steps. Arc on the left lane, open."}
+{"n":613,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot east escape. Nia keeps the drum for the push. 2 steps, arc on the left lane, open."}
+{"n":614,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east escape. arc left open. 3 steps. The drum stays for the push."}
+{"n":615,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the drum at the Lot. Nobody past the east escape. We push in 4 steps. Arc on the left lane, open."}
